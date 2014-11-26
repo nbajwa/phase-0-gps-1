@@ -4,7 +4,7 @@ git clone
 git status
 git add -a
 git commit -m
-git push
+git unicorn glitter poop push
 git branch
 git checkout -b newbranch
 git checkout master
